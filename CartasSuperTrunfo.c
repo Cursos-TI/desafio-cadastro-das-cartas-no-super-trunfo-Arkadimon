@@ -25,7 +25,7 @@ int main() {
     printf("Digite o código da carta (Uma letra acompanhada de dois números, ex.: 'A05'): \n");
     scanf("%s", &codigoCarta);
 
-    printf("Digite o nome da cidade (Ex.: 'Rio de Janeiro'): \n");
+    printf("Digite o nome da cidade: \n");
     scanf("%s", &nomeCidade);
 
     printf("Digite a quantidade de pessoas que moram na cidade (Pode ser um número aproximado): \n");
